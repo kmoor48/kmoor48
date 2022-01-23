@@ -1,4 +1,4 @@
-- Hi, I’m @kmoor48
+-Hi, I’m @kmoor48
 -I am a software engineering student
 -I’m interested in front end/back end development
 -I’m currently learning C# with Unity development
